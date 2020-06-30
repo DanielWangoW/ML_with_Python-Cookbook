@@ -1,2 +1,2 @@
 # gitSystemTest
-This repository is created for learning and testing git&amp;git opreation.
+This repository is created for learning and testing git&amp;ssh opreation.
