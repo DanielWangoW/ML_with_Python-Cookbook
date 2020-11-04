@@ -1,2 +1,4 @@
-# gitSystemTest
-This repository is created for learning and testing git&amp;ssh opreation.
+# Neural Network: A python path
+This repository is created for storing the code about Neural Network coding for the Course of Fudan University.
+Author: Daniel.Wang
+
